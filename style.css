@@ -1,0 +1,23 @@
+.objects {
+    background-color: dodgerblue;
+    width: 75%;
+}
+
+.people {
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color:rgb(241, 161, 237);
+}
+
+.text {
+    color: white;
+}
+
+#camera {
+    height: 150px;
+    width: 300px;
+    border-style: dashed;
+}
